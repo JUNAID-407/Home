@@ -1,0 +1,377 @@
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D100 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E216 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12H143 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E216 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B150 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/13G36 Safari/7534.48.3 UCBrowser/11.3.1.1058
+Mozilla/5.0 (iPad; U; CPU OS 5_1 like Mac OS X) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10 UCBrowser/3.4.3.532
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B93 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B202 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 5_1 like Mac OS X) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10 UCBrowser/3.0.0.357
+Mozilla/5.0 (iPad; U; CPU OS 9_2 like Mac OS X; ru; iPad2,7) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14F89 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D100 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G36 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E216 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14C92 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13E238 UCBrowser/10.6.5.761 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0(iPad; U;CPU OS 6_1 like Mac OS X; zh-CN; iPad2,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14A456 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D100 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15A432 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E302 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/11.2.1.1052 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B202 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/11.3.1.1058 Mobile,gzip(gfe)
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14D27 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 8_4 like Mac OS X; ru; iPad2,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G60 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G36 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D100 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 5_1 like Mac OS X) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10 UCBrowser/3.1.0.403
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D60 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14F89 UCBrowser/11.2.0.1049 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X; ru-RU) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 UCBrowser/4.2.1.541 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/15D100 Safari/7534.48.3 UCBrowser/11.3.1.1058
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13A404 UCBrowser/11.2.0.1049 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D60 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X; ru) AppleWebKit/536.26 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/10B329 Safari/7534.48.3 UCBrowser/10.6.1.760
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E216 UCBrowser/11.3.0.1056 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15C153 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14E304 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15G77 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G60 UCBrowser/11.2.0.1049 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B150 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D100 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15A432 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 10_3 like Mac OS X; en-us; iPad5,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/15C153 Safari/7534.48.3 UCBrowser/11.2.0.1049
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G60 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15A432 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E5216a UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15C202 UCBrowser/11.2.1.1052 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E216 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12B411 UCBrowser/10.0.5.508 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16F203 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 5_1 like Mac OS X) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10 UCBrowser/3.2.1.441
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16D57 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15G77 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G36 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G60 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16F203 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G60 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16E227 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16A366 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15G77 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G37 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E302 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15G77 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G102 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G37 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17A861 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a UCBrowser/9.3.1.339 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17A860 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G61 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16D57 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15F79 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17A577 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17B102 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16E227 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17B111 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 6 like Mac OS X; ru; iPad2,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17B111 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G61 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13D15 UCBrowser/10.9.15.793 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17A577 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G140 UCBrowser/11.3.5.1203 Mobile
+UCWEB/2.0 (iPad; U; CPU OS 7_1 like Mac OS X; en; iPad3,6) U2/1.0.0 UCBrowser/9.3.1.344
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17C54 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17C54 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16D57 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G140 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17C54 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G161 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15F79 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17A854 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17D50 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17D50 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17D50 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E216 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/14G60 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/15F79 Safari/7534.48.3 UCBrowser/11.3.1.1058
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G161 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 11_3 like Mac OS X; zh-CN; iPad5,3) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/3.0.1.776 U3/ Mobile/10A403 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G61 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D201 UCBrowser/10.4.0.693 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17D50 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPad; U; CPU OS 9_3 like Mac OS X; ru; iPad2,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17B84 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16B92 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17E255 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_5 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F5034c UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17B111 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17E255 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G183 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17E262 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16A366 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17D50 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F5044d UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0(iPad; U;CPU OS 8_4 like Mac OS X; zh-CN; iPad2,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17B84 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17E262 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 13_3 like Mac OS X; zh-CN; iPad5,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/3.0.1.776 U3/ Mobile/10A403 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G114 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_6 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G183 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17E262 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13E238 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14F89 UCBrowser/11.0.0.1044 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15C202 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F75 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/11D257 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F80 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F80 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 9_3 like Mac OS X; ru; iPad3,3) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_7 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G192 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17E262 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G60 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G183 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15C153 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F80 UCBrowser/11.3.5.1203 Mobile,gzip(gfe)
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_7 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G192 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F80 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/14G61 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPad; U; CPU OS 9_3 like Mac OS X; en-us; iPad3,3) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17G5059c Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17D50 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16F156 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_5 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G161 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17F80 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17G68 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17G68 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A5342e UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17G68 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17G68 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G201 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17G80 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17G80 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B202 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17G80 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/16G201 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16G201 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17H35 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A373 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17H35 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13B143 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17H35 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A373 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/15G77 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A393 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A373 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12B440 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A393 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A393 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15C114 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G61 UCBrowser/10.1.0.639 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 14 like Mac OS X; zh-CN; iPad8,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/3.0.1.776 U3/ Mobile/10A403 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G36 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A8395 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18B92 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A8395 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0(iPad; U;CPU OS 6_1 like Mac OS X; ru; iPad2,7) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.2.0.328 U3/1 Safari/7543.48.3
+Mozilla/5.0(iPad; U;CPU OS 7 like Mac OS X; zh-CN; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 7 like Mac OS X; ru; iPad2,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 5_1 like Mac OS X) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10 UCBrowser/3.4.1.483
+Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; ru; iPad4,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; ru; iPad2,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_3 like Mac OS X; ru; iPad3,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13F69 UCBrowser/10.7.2.795 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G36 UCBrowser/10.8.2.852 Mobile
+Mozilla/5.0(iPad; U;CPU OS 7 like Mac OS X; zh-CN; iPad2,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X; ru) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; ru; iPad3,3) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; ru; iPad2,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 6_1 like Mac OS X; ru; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_3 like Mac OS X; ru; iPad2,7) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_4 like Mac OS X; ru; iPad5,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X; ru) AppleWebKit/601.1.46.25.2 (KHTML, like Gecko) Mobile/13B143 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 9_1 like Mac OS X; en-us; iPad2,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 9_1 like Mac OS X; ru; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 9_2 like Mac OS X; ru; iPad2,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 9_2 like Mac OS X; en-us; iPad2,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G34 UCBrowser/10.7.3.808 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/10.4.9.722 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14A403 UCBrowser/10.8.2.852 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14E277 UCBrowser/10.8.8.920 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15C202 UCBrowser/11.2.1.1052 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12H321 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 7_1 like Mac OS X; ru; iPad2,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 9 like Mac OS X; ru; iPad4,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15A432 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B202 UCBrowser/10.9.3.1040 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15F79 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X; ru) AppleWebKit/600.1.4.13.3 (KHTML, like Gecko) Mobile/12B466 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13D15 UCBrowser/10.4.9.722 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13E233 UCBrowser/10.6.5.761 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 5_1 like Mac OS X) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10 UCBrowser/3.4.2.525
+Mozilla/5.0 (iPad; U; CPU OS 7_1 like Mac OS X; ru; iPad2,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_2 like Mac OS X; ru; iPad4,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_3 like Mac OS X; ru; iPad2,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_4 like Mac OS X; ru; iPad2,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_4 like Mac OS X; ru; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 9_2 like Mac OS X; ru; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14C92 UCBrowser/10.8.5.876 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X; ru) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329 UCBrowser/9.0.0.260 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/10.4.0.693 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X; ru) AppleWebKit/600.1.4.15.16 (KHTML, like Gecko) Mobile/12F70 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13D15 UCBrowser/10.6.5.761 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13F69 UCBrowser/10.7.3.808 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 9_2 like Mac OS X; en-us; iPad2,7) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B651 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X; ru) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X; ru) AppleWebKit/600.1.4.11.10 (KHTML, like Gecko) Mobile/12B411 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 7_1 like Mac OS X; ru; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_1 like Mac OS X; ru; iPad2,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 9 like Mac OS X; ru; iPad4,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 9_2 like Mac OS X; en-us; iPad2,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14A456 UCBrowser/10.8.5.876 Mobile
+Mozilla/5.0(iPad; U;CPU OS 6_1 like Mac OS X; zh-CN; iPad3,3) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0(iPad; U;CPU OS 7 like Mac OS X; zh-CN; iPad3,4) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0(iPad; U;CPU OS 6_1 like Mac OS X; zh-CN; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D257 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16C101 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 9 like Mac OS X; en-us; iPad4,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15E216 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 10_3 like Mac OS X; en-us; iPad3,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14G60 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B202 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18B92 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18B92 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18B92 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPad; U; CPU OS 8_2 like Mac OS X; ru; iPad2,7) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8_2 like Mac OS X; ru; iPad3,3) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D169 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 10_3 like Mac OS X; en-us; iPad4,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPad; U; CPU OS 8 like Mac OS X; ru; iPad3,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/16A366 Safari/7534.48.3 UCBrowser/11.3.2.1094
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/16A404 Safari/7534.48.3 UCBrowser/11.3.2.1094
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/17A878 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X; ru) AppleWebKit/600.1.4.14.1 (KHTML, like Gecko) Mobile/12D508 UCBrowser/9.3.0.326 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12B466 UCBrowser/10.3.5.558 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B202 UCBrowser/10.9.1.998 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/11D257 Safari/7534.48.3 UCBrowser/10.8.5.876
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X; ru) AppleWebKit/600.1.4.12.4 (KHTML, like Gecko) Mobile/12B440 UCBrowser/9.0.0.260 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12H321 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0(iPad; U;CPU OS 6_1 like Mac OS X; zh-CN; iPad2,7) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0(iPad; U;CPU OS 7 like Mac OS X; zh-CN; iPad2,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H20 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18A8395 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18C66 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_9 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H5 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18A393 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18C66 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18C5054c UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18C66 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D60 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H22 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_9 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H5 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H22 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H22 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D52 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D52 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D52 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D100 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D61 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/13G37 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18D52 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18E5164h UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18C66 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18D61 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D70 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D70 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D70 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D61 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18D61 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H30 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18E199 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18E199 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18E212 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/17F75 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18F72 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H41 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18F72 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_3 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H41 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18D70 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15B202 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18F72 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_4 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H50 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14A456 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18G69 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18F72 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0(iPad; U;CPU OS 5_1 like Mac OS X; zh-CN; iPad1,1) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.0.0.164 U3/0.8.0 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_4 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H50 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18G82 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18G82 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_5_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18E212 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/18G82 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15D60 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18G82 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18G68 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_4 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H50 UCBrowser/11.3.2.1094 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A5340a UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18G69 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A346 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18H17 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18B91 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/19A346 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/12F70 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H62 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19B74 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A348 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A404 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18H107 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A348 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18H17 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A404 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19B74 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/16H62 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A404 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18H107 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A346 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19A346 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19B81 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 9_3 like Mac OS X; ru; iPad3,6) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H62 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/19C56 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19C56 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19C63 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19D52 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19C63 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/14D27 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19D52 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19E258 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 6_1 like Mac OS X; ru; iPad2,2) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19E5219e UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19F77 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPad; U; CPU OS 7_1 like Mac OS X; ru; iPad4,5) AppleWebKit/534.46 (KHTML, like Gecko) UCBrowser/2.4.0.367 U3/1 Safari/7543.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19F77 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19E258 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/15C202 UCBrowser/11.3.1.1058 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/18H107 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X; vi) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19F77 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19C56 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/19G71 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/20D67 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_7 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/16H81 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/23.0.1271.100 Mobile/20A362 Safari/7534.48.3 UCBrowser/11.3.5.1203
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/20B110 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_3 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/20D47 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X; ru) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/20E252 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/20G75 UCBrowser/11.3.5.1203 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X; zh-CN) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/18D70 UCBrowser/15.0.5.1847 Mobile
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X; en-US) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/21C66 UCBrowser/11.3.5.1203
